@@ -2,6 +2,8 @@
 
 ![alt](./assets/tabnine.png)
 
+[Back to Home](../README.md)
+
 ### Giới thiệu
 Tabnine là một công cụ được phát triển dựa trên các thuật toán học sâu (Deep Learning), với dữ liệu đào tạo được lấy từ hơn hai triệu tệp từ mã nguồn trên Github.
 
@@ -16,4 +18,5 @@ Hiện tại thì plugin Tabnine hỗ trợ khoảng hơn ba mươi ngôn ngữ 
 3. Sau khi cài đặt, có thể vào <a href="https://www.tabnine.com/getting-started">Getting Started | Tabnine</a> hoặc 
     có thể xem video <a href="https://www.youtube.com/live/XXERCwezdsQ?feature=share">Become a Tabnine expert in 40 minutes!</a>
     để xem cách sử dụng nhé 😄.
-   
+
+[Back to Home](../README.md)
