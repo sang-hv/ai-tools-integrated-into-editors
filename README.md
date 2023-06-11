@@ -4,5 +4,8 @@
 
 ## Danh sách các Tool AI
 ### &nbsp;[1. Tabnine](./tabnine)
-### MACHINET
-### &nbsp;2. Các công cụ chat AI trên trình duyệt
+### &nbsp;[2. MACHINET](./machinet)
+### &nbsp;[3. GitHub Copilot](./github-copilot)
+### &nbsp;4. Các công cụ chat AI trên trình duyệt web
+
+- https://chatbot.theb.ai/
