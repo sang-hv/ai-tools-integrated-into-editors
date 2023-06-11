@@ -1,6 +1,6 @@
 # Hướng dẫn cài đặt các plugin trên IDE, Text Editor
 
-[Back to Home](../README.md)
+[Back to Home](../)
 
 ### Cài đặt plugin trên IDE (JetBrains)
 1. Mở IDE của Jetbrains trên máy tính của bạn.
@@ -26,4 +26,4 @@
 5. Nếu cần, chờ cho quá trình cài đặt hoàn tất (thường sẽ hiển thị vòng tròn tiến độ bên cạnh tiêu đề của plugin).
 6. Khi cài đặt xong, bạn có thể đóng trang Extensions và bắt đầu sử dụng plugin.
 
-[Back to Home](../README.md)
+[Back to Home](../)
