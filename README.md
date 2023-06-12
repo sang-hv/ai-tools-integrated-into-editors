@@ -8,5 +8,5 @@
 ### &nbsp;[2. Machinet](./machinet)
 ### &nbsp;[3. GitHub Copilot](./github-copilot)
 ### &nbsp;4. Các công cụ chat AI trên trình duyệt web
-- https://chatgptweb.org/
-- https://chatbot.theb.ai/
+- [Chat GPT Web](https://chatgptweb.org/)
+- [Theb Chat](https://chatbot.theb.ai/)
