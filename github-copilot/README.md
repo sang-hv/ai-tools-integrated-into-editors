@@ -14,6 +14,7 @@ Với việc sử dụng học máy và các kỹ thuật xử lý ngôn ngữ t
 Hiện tại, GitHub Copilot sẽ được dùng thử 30 ngày, sau đó bạn sẽ phải trả phí theo tháng (10$) hoặc theo năm (100$)
 
 ### Cài đặt
-https://github.com/github-copilot
+#### [Hướng dẫn cài đặt các plugin trên IDE, Text Editor](../install-plugins-instruct)
+- [https://github.com/github-copilot](https://github.com/github-copilot)
 
 [Back to Home](../README.md)

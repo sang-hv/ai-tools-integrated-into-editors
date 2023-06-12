@@ -10,6 +10,7 @@ Tabnine là một công cụ được phát triển dựa trên các thuật to�
 Hiện tại thì plugin Tabnine hỗ trợ khoảng hơn ba mươi ngôn ngữ lập trình khác nhau.
 
 ### Cài đặt
+#### [Hướng dẫn cài đặt các plugin trên IDE, Text Editor](../install-plugins-instruct)
 Để cài đặt Tabnine trên các công cụ Text Editor, IDE.<br/>
 
 1. Vào trang chủ <a href="https://www.tabnine.com/">Tabnine</a><br/>

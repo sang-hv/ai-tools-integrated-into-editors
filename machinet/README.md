@@ -3,7 +3,8 @@
 
 Tương thích với IntelliJ IDEA (Ultimate, Community, Educational), Android Studio, AppCode, Aqua, CLion, Code With Me Guest, 
 DataGrip, DataSpell, GoLand, JetBrains Client, MPS, PhpStorm, PyCharm (Professional, Community, Educational), Rider, RubyMine, WebStorm
-https://plugins.jetbrains.com/plugin/17510-machinet-ai-gpt4--chatgpt
+
+[https://plugins.jetbrains.com/plugin/17510-machinet-ai-gpt4--chatgpt](https://plugins.jetbrains.com/plugin/17510-machinet-ai-gpt4--chatgpt)
 
 [Back to Home](../README.md)
 
@@ -21,6 +22,7 @@ Nó cung cấp các tính năng sau:
   Hãy coi plugin như một công cụ trợ giúp để tạo các `test case` thông minh.
   
 ### Cài đặt
+#### [Hướng dẫn cài đặt các plugin trên IDE, Text Editor](../install-plugins-instruct)
 1. Cài đặt plugin `MACHINET` trên `Marketplace` của Jetbrains
 2. Sau khi cài đặt xong plugin MACHINET, click vào 
 <a href="https://www.loom.com/share/ca403db88eee453f900943b66b4acc82"> Xem video hướng dẫn đăng ký</a>
