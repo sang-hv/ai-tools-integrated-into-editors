@@ -27,11 +27,7 @@ Nó cung cấp các tính năng sau:
 2. Sau khi cài đặt xong plugin MACHINET, click vào 
 <a href="https://www.loom.com/share/ca403db88eee453f900943b66b4acc82"> Xem video hướng dẫn đăng ký</a>
 3. Xem hướng dẫn [ở đây](https://youtu.be/M4ySRYiQqqg) để xem cách tạo ra `Unit Test`
-hoặc bạn có thể sử dụng `Chat GPT4` khi click vào để show chat box GPT4
-   ![](./assets/click-icon-chat-gpt.png)
-   <br>
-   sau đó sẽ hiển thị màn chat box với AI
-   <br>
-   ![](./assets/show-chat-box.png)
+cho các dự án Java hoặc Kotlin
+4. Đối với các dự án sử dụng ngôn ngữ khác có thể xem hướng dẫn [ở đây](https://youtu.be/8TpMfTdDu3Y)
 
 [Back to Home](../README.md)
