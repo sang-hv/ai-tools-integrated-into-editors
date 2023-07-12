@@ -9,6 +9,8 @@ Tabnine là một công cụ được phát triển dựa trên các thuật to�
 
 Hiện tại thì plugin Tabnine hỗ trợ khoảng hơn ba mươi ngôn ngữ lập trình khác nhau.
 
+Công cụ này sử dụng AI để tự động hoàn thành mã code. Khi bạn bắt đầu gõ một đoạn code, nó sẽ đề xuất các khối mã hoàn chỉnh hoặc phương thức dựa trên ngữ cảnh. Điều này giúp tiết kiệm thời gian và giảm bớt lỗi cú pháp.
+
 ### Cài đặt
 #### [Hướng dẫn cài đặt các plugin trên IDE, Text Editor](../install-plugins-instruct)
 Để cài đặt Tabnine trên các công cụ Text Editor, IDE.<br/>
