@@ -17,7 +17,7 @@ Hiện tại thì plugin Tabnine hỗ trợ khoảng hơn ba mươi ngôn ngữ 
 2. Click vào `Learn more` &#8594; chọn `IDE Integration` &#8594; chọn Text Editor, IDE mình đang sử dụng và làm theo hướng dẫn để cài dặt<br/>
    ![alt](./assets/install-instruct.png)
 3. Sau khi cài đặt, có thể vào <a href="https://www.tabnine.com/getting-started">Getting Started | Tabnine</a> hoặc 
-    có thể xem các video <a target="_blank" href="https://www.youtube.com/@Codota-Tabnine">Become a Tabnine expert in 40 minutes!</a>
+    có thể xem các video <a target="_blank" href="https://www.youtube.com/@Codota-Tabnine">Tabnine - Youtube</a>
     để xem cách sử dụng nhé 😄.
 
 [Back to Home](../README.md)
