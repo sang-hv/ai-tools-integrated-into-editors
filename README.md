@@ -1,7 +1,6 @@
 # Tích hợp AI vào IDE, Editor
 
 #### [Hướng dẫn cài đặt các plugin trên IDE, Text Editor](./install-plugins-instruct)
-#### 
 
 Trong thời đại công nghệ hiện đại, trí tuệ nhân tạo (AI) đã trở thành một công cụ hỗ trợ mạnh mẽ cho các nhà phát triển phần mềm. Hôm nay, tôi xin giới thiệu với anh em về việc sử dụng công cụ AI trong các IDE và text editor để nâng cao hiệu suất làm việc và giảm thiểu công sức. Các bạn có thể đọc thêm [ bài viết ](./install-plugins-instruct) để biết được tại sao bạn nên tích hợp AI vào quy trình phát triển phần mềm của mình sớm hơn.
 
